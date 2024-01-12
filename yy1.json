@@ -1,5 +1,5 @@
 {
-  "spider": "https://atomgit.com/mingliang81/mybox/blob/04e3b90c82696044984c48079054a4fd5ddd8557/jar/fan.txt;md5;a5c29d1840207b137a855e23526d6e32",
+  "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/fan.txt;md5;a5c29d1840207b137a855e23526d6e32",
   "warningText":"꧁༺ 明亮༻꧂免费分享持续更新，V: QQ1668775",
   "lives": [
     {
@@ -61,6 +61,14 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "🔱丫丫vip影院🏅",
+      "name": "💕丫丫 VIP🏅🏅🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "https://d.kstore.space/download/5305/%E8%87%AA%E7%94%A8/lib/%E4%B8%AB%E4%B8%ABxph.json"
     },
     {
       "key": "🔱丫丫vip影院🏅",
@@ -186,7 +194,7 @@
       "ext": "https://drpy.cainisi.cf/js/兰花影院.js"
     },
     {
-      "key": "Czsapp",
+      "key": "💕丫丫专线⑪🏅",
       "name": "💕丫丫专线⑪🏅",
       "type": 3,
       "api": "csp_Czsapp",
@@ -197,7 +205,7 @@
       "ext": "https://www.czzy33.com/"
     },
     {
-      "key": "Auete",
+      "key": "💕丫丫专线⑫🏅",
       "name": "💕丫丫专线⑫🏅",
       "type": 3,
       "api": "csp_Auete",
@@ -205,6 +213,28 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://haozhansou.com/"
+    },
+    { "key": "💕丫丫专线⑬🏅",
+      "name": "💕丫丫专线⑬🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.space/download/5305/%E8%87%AA%E7%94%A8/jar/xbpq.jar",
+      "ext": "https://d.kstore.space/download/5305/%E8%87%AA%E7%94%A8/lib/naikan.json"
+    },
+    {
+      "key": "💕丫丫专线⑭",
+      "name": "💕丫丫专线⑭",
+      "type": 3,
+      "filterable": 1,
+      "api": "csp_Panda",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+        "筛选": "1"
+    }
     },
     {
       "key": "🔱丫丫直播🏅",
