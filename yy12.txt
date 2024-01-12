@@ -269,6 +269,93 @@
       "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
+      "key": "xiaofeng",
+      "name": "💋蓝光┃255",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://x.xiaofengtv.com/api.php/app/"
+    },
+
+    {
+      "key": "闪电资源",
+      "name": "💕丫丫闪电资源",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "飞速资源",
+      "name": "💕丫丫飞速资源",
+      "type": 1,
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "光速资源",
+      "name": "💕丫丫光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "八戒资源",
+      "name": "💕丫丫八戒资源",
+      "type": 1,
+      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "快车资源",
+      "name": "💕丫丫快车采集",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "战争片",
+        "动作片",
+        "香港剧"
+      ]
+    },
+    {
+      "key": "xgapp",
+      "name": "💕丫丫西瓜采集",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "速博资源",
+      "name": "💕丫丫速播采集",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "金鹰资源",
+      "name": "💕丫丫金鹰采集",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "naikan",
       "name": "💕丫丫耐看影视",
       "type": 3,
@@ -1579,6 +1666,340 @@
       "filterable": 1,
       "ext": "https://d.kstore.space/download/5305/%E8%87%AA%E7%94%A8/lib/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96.json"
     },
+      {
+      "key": "美食",
+      "name": "💕丫丫美食┃品鉴",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/美食.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "健身",
+      "name": "💕丫丫休闲┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/健身.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "国学",
+      "name": "💕丫丫国学┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/国学.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "百科",
+      "name": "💕丫丫百科┃全书",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/百科.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "地理",
+      "name": "💕丫丫全球┃地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/地理.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "科学",
+      "name": "💕丫丫科学┃发明",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/科学.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "戏 曲",
+      "name": "💕丫丫戏曲┃大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/戏曲.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "兔小贝",
+      "name": "💕丫丫兔小贝┃儿童",
+      "type": 3,
+      "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/js/兔小贝.js"
+    },
+    {
+      "key": "外语",
+      "name": "💕丫丫外语┃教学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.xyz:66/jiaoyu/外语.json",
+      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+    },
+    {
+      "key": "相声",
+      "name": "💕丫丫无影┃相声",
+      "type": 3,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "quickSearch": 0,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/jiekou4/2024/-/raw/main/lib/223/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "ext": {
+        "主页url": "https://www.xsmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"",
+        "播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "相声随身听",
+        "线路标题": "相声随身听",
+        "导演": "摸鱼",
+        "主演": "相声明星",
+        "简介": "相声合集",
+        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+      }
+    },
+    {
+      "key": "评书",
+      "name": "💕丫丫无影┃评书",
+      "type": 3,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "quickSearch": 0,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/jiekou4/2024/-/raw/main/lib/223/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "ext": {
+        "主页url": "https://www.psmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"",
+        "播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "评书随身听",
+        "线路标题": "评书随身听",
+        "导演": "摸鱼",
+        "主演": "评书明星",
+        "简介": "评书合集",
+        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+      }
+    },
+    {
+      "key": "小灯塔",
+      "name": "💕丫丫小灯塔",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "💕丫丫小灯塔科学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "💕丫丫小灯塔地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "💕丫丫小灯塔国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔国学.json"
+    },
+    {
+      "key": "小灯塔人文",
+      "name": "💕丫丫小灯塔人文",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔人文.json"
+    },
+    {
+      "key": "儿童拼音",
+      "name": "💕丫丫儿童拼音",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童拼音.json"
+    },
+    {
+      "key": "儿童识字",
+      "name": "💕丫丫儿童识字",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童识字.json"
+    },
+    {
+      "key": "儿童英语",
+      "name": "💕丫丫儿童英语",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童英语.json"
+    },
+    {
+      "key": "儿童硬笔",
+      "name": "💕丫丫儿童硬笔",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童硬笔.json"
+    },
+    {
+      "key": "儿童思维",
+      "name": "💕丫丫儿童思维",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童思维.json"
+    },
+    {
+      "key": "儿童口才",
+      "name": "💕丫丫儿童口才",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童口才.json"
+    },
+    {
+      "key": "儿童编程",
+      "name": "💕丫丫儿童编程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童编程.json"
+    },
+    {
+      "key": "儿童武术",
+      "name": "💕丫丫儿童武术",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童武术.json"
+    },
+    {
+      "key": "兴趣培养",
+      "name": "💕丫丫兴趣培养",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兴趣培养.json"
+    },
+        {
+      "key": "csp_Bili幼儿",
+      "name": "💕丫丫乐园|幼儿",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4077/教育/幼儿乐园.json",
+      "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar"
+    },
+  
     {
       "key": "相声小品",
       "name": "💕丫丫相声小品",
